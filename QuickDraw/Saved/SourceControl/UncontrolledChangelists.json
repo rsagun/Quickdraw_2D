@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Background/T_Background.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Misc/T_Cross.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Misc/T_Exclamation.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Attack.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Defeated.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Idle.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Toad/T_Toad_Attack.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Toad/T_Toad_Defeated.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Toad/T_Toad_Idle.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/Maps/MAP_Duel.umap",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Background/T_Background_Sprite.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Misc/T_Cross_Sprite.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Misc/T_Exclamation_Sprite.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Attack_Sprite.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Defeated_Sprite.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Tanuki/T_Tanuki_Idle_Sprite.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Toad/T_Toad_Attack_Sprite.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Toad/T_Toad_Defeated_Sprite.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/PaperAssets/Toad/T_Toad_Idle_Sprite.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/Blueprints/BP_Samurai.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/Blueprints/BP_Samurai_Player.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/Blueprints/BP_Samurai_NPC.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/Blueprints/GM_Duel.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/Blueprints/Enums/E_Phase.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/Blueprints/BP_Exclamation.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/Input/IMC_Duel.uasset",
+				"E:/Git/Unreal Projects/Quickdraw_2D/QuickDraw/Content/Input/Actions/IA_Attack.uasset"
+			]
+		}
+	]
+}
